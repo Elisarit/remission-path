@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://elisarit.github.io/remission-path/'
+languageCode = 'ru-ru'
+title = 'Путь ремиссии'
 theme = 'relearn'

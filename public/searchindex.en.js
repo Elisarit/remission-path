@@ -1,26 +1,42 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Путь ремиссии \u003e Posts",
+    "content": "Тест Это тестовая страница",
+    "description": "Тест Это тестовая страница",
+    "tags": [],
+    "title": "My First Post",
+    "uri": "/remission-path/posts/my-first-post/index.html"
+  },
+  {
+    "breadcrumb": "Путь ремиссии",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Categories",
-    "uri": "/categories/index.html"
+    "title": "Posts",
+    "uri": "/remission-path/posts/index.html"
   },
   {
     "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "My New Hugo Site",
-    "uri": "/index.html"
+    "title": "Путь ремиссии",
+    "uri": "/remission-path/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Путь ремиссии",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Categories",
+    "uri": "/remission-path/categories/index.html"
+  },
+  {
+    "breadcrumb": "Путь ремиссии",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/remission-path/tags/index.html"
   }
 ]
