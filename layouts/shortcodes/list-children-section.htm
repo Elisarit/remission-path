@@ -1,0 +1,13 @@
+{{/* layouts/shortcodes/list-children.html */}}
+
+  <h3>Содержание</h3>
+  <div class="pages-list">
+  {{ range .Page.RegularPages.ByWeight }}
+    <div class="page-item">
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      {{ with .Params.description }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+  </div>

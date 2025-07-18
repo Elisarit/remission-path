@@ -1,0 +1,22 @@
+{{/* layouts/shortcodes/list-children.html */}}
+
+  <h3>Список разделов</h3>
+  <div class="sections-list">
+  {{ range .Site.Sections }}
+    <div class="section-item" style="margin-bottom: 2rem; border-left: 3px solid #3367d6; padding-left: 1rem;">
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      {{ with .Params.description }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+  </div>
+
+
+{{ range .Page.RegularPages.ByWeight }}
+  <article>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary }}</p>
+  </article>
+  <hr>
+{{ end }}
