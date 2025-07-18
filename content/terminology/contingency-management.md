@@ -1,6 +1,5 @@
 +++
 date = '2025-07-18T16:42:26+03:00'
-draft = true
 title = 'Contingency Management (Управление подкреплением)'
 +++
 
