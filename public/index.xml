@@ -6,8 +6,15 @@
     <description></description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 18 Jul 2025 18:52:36 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 23:52:20 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/remission-path/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полезные ссылки</title>
+      <link>http://localhost:1313/remission-path/links/index.html</link>
+      <pubDate>Fri, 18 Jul 2025 23:52:20 +0300</pubDate>
+      <guid>http://localhost:1313/remission-path/links/index.html</guid>
+      <description>Русскоязычные ресурсы Региональные сообщества Казахстан: Общественный фонд “Казахстан без наркотиков” Белоруссия: Республиканское общественное объединение “Матери против наркотиков” SMART Recovery SMART Revovery на русском SMART Recovery Telegram канал Анонимные наркоманы Россия: Анонимные Наркоманы, сайт российского сообщества Семейные группы Нар-Анон в России Анонимные Наркоманы Западная Россия Белоруссия: Анонимные Наркоманы, сайт белорусского сообщества Украина: Литература АН на русском Англоязычные ресурсы Organizations Substance Abuse and Mental Health Services Administration - SAHMSA Americal Society of Addiction Medicine SMART Recovery SMART Recovery Russian Language meetings worldwide SMART Recovery Global SMART Recovery USA Nacrotics Anonymous</description>
+    </item>
     <item>
       <title>Обо мне</title>
       <link>http://localhost:1313/remission-path/about/index.html</link>
@@ -30,11 +37,11 @@
       <description></description>
     </item>
     <item>
-      <title>Контакты</title>
-      <link>http://localhost:1313/remission-path/contact/index.html</link>
+      <title>Обратная связь</title>
+      <link>http://localhost:1313/remission-path/feedback/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remission-path/contact/index.html</guid>
-      <description></description>
+      <guid>http://localhost:1313/remission-path/feedback/index.html</guid>
+      <description>Вы можете оставить мне сообщение, используя форму ниже.&#xA;Ваш email (необязательно, но это поможет написать Вам обратно если требуется ответить на вопрос): Ваше сообщение: Отправить</description>
     </item>
   </channel>
 </rss>

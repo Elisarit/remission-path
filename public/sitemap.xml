@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/remission-path/about/index.html</loc>
-    <lastmod>2025-07-18T18:52:36+03:00</lastmod>
+    <loc>http://localhost:1313/remission-path/links/index.html</loc>
+    <lastmod>2025-07-18T23:52:20+03:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/remission-path/index.html</loc>
+    <lastmod>2025-07-18T23:52:20+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/about/index.html</loc>
     <lastmod>2025-07-18T18:52:36+03:00</lastmod>
   </url>
   <url>
@@ -43,9 +47,6 @@
     <loc>http://localhost:1313/remission-path/tags/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/remission-path/contact/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/remission-path/contact/feedback/index.html</loc>
+    <loc>http://localhost:1313/remission-path/feedback/index.html</loc>
   </url>
 </urlset>
