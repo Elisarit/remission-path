@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/remission-path/posts/my-first-post/index.html</loc>
-    <lastmod>2025-07-18T11:25:32+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/remission-path/posts/index.html</loc>
-    <lastmod>2025-07-18T11:25:32+03:00</lastmod>
+    <loc>http://localhost:1313/remission-path/about/index.html</loc>
+    <lastmod>2025-07-18T18:52:36+03:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/remission-path/index.html</loc>
-    <lastmod>2025-07-18T11:25:32+03:00</lastmod>
+    <lastmod>2025-07-18T18:52:36+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/terminology/nida/index.html</loc>
+    <lastmod>2025-07-18T17:45:31+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/terminology/index.html</loc>
+    <lastmod>2025-07-18T17:45:31+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/terminology/contingency-management/index.html</loc>
+    <lastmod>2025-07-18T16:42:26+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/reviews/2025-07-18-the-hitting-rock-bottom-myth/index.html</loc>
+    <lastmod>2025-07-18T16:11:54+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/reviews/index.html</loc>
+    <lastmod>2025-07-18T16:11:54+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/reviews/2025-07-18-hitting-bottom-tuning-points-positive-change/index.html</loc>
+    <lastmod>2025-07-18T15:45:45+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/reviews/2025-07-18-rock-bottom-is-not-a-motivator/index.html</loc>
+    <lastmod>2025-07-18T15:14:01+03:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/remission-path/categories/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/remission-path/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/contact/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/contact/feedback/index.html</loc>
   </url>
 </urlset>

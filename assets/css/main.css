@@ -1,0 +1,11 @@
+.shared-ai-box {
+  background-color: #f0f7ff;
+  border-left: 5px solid #007bff;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+}
+.shared-ai-box h4 {
+  margin-top: 0;
+  color: #0056b3;
+}

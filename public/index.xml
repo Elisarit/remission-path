@@ -6,13 +6,34 @@
     <description></description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 18 Jul 2025 11:25:32 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 18:52:36 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/remission-path/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Posts</title>
-      <link>http://localhost:1313/remission-path/posts/index.html</link>
-      <pubDate>Fri, 18 Jul 2025 11:25:32 +0300</pubDate>
-      <guid>http://localhost:1313/remission-path/posts/index.html</guid>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/remission-path/about/index.html</link>
+      <pubDate>Fri, 18 Jul 2025 18:52:36 +0300</pubDate>
+      <guid>http://localhost:1313/remission-path/about/index.html</guid>
+      <description>Привет! Меня зовут Элизарит, это мой ник и я предпочитаю оставаться анонимной, так как я пишу на очень стигматизированную тему и хочу обезопасить себя и своих близких.&#xA;Добро пожаловать в мой блог. Здесь я пишу о проблемах наркомании и способах лечения. Так случилось, что я столкнулась с тем что один из близких мне людей имеет зависимость от наркотических веществ.&#xA;В своем блоге я руководствуюсь следующими принципами:&#xA;Не навреди. Здесь не будет пропаганды или недостоверной информации не соответствующей современным научным практикам или официальным рекомендациям по проблемам наркомании или помощи близким. Соотвестствие законодательству. Я использую открытые опубликованные научные и популярные статьи, не попадающие под запреты. Я стараюсь проверять источники самостоятельно и сверяться с законодательством, тем не менее если Вы увидите здесь ссылку на какой-либо запрещенный источник или материал – пожалуйста напишите мне об этом. Достоверность в приоритете. Даже если я использую модель искусственного интеллекта (ИИ) для генерации или обзора какого-либо текста я перечитываю информацию и стараюсь перепроверять источники на которые даю ссылки. Я не могу гарантировать абсолютную достоверность, поэтому явно указываю об этом в каждой статье. Тем не менее, если Вам попадутся какие-либо недостоверные данные, пожалуйста дайте мне знать об этом. Если хотите связаться со мной, перейдите на страницу обратной связи.</description>
+    </item>
+    <item>
+      <title>Разбор терминологии</title>
+      <link>http://localhost:1313/remission-path/terminology/index.html</link>
+      <pubDate>Fri, 18 Jul 2025 17:45:31 +0300</pubDate>
+      <guid>http://localhost:1313/remission-path/terminology/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Обзоры статей</title>
+      <link>http://localhost:1313/remission-path/reviews/index.html</link>
+      <pubDate>Fri, 18 Jul 2025 16:11:54 +0300</pubDate>
+      <guid>http://localhost:1313/remission-path/reviews/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/remission-path/contact/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remission-path/contact/index.html</guid>
       <description></description>
     </item>
   </channel>

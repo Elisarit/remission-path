@@ -1,0 +1,16 @@
+/* Отключаем перенос для заголовков статей (h1, h2, h3 и т.д.) */
+h1, h2, h3, h4, h5, h6 {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Отключаем перенос для названий в меню навигации */
+#menu-scroll-area a {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  word-break: keep-all; /* Дополнительно запрещаем разрыв слова */
+}

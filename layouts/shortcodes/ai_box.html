@@ -1,0 +1,15 @@
+{{/* Получаем доступ к данным из файла */}}
+{{ $box := .Site.Data.shared_content.ai_box }}
+
+{{ if $box }}
+  {{/* 1. С помощью printf создаем строку, содержащую вызов шорткода notice */}}
+  {{ $shortcodeString := "" }}
+  {{ if $box.title }}
+    {{ $shortcodeString = printf `{{%% notice info %q %%}}%s{{%% /notice %%}}` $box.title $box.content }}
+  {{ else }}
+    {{ $shortcodeString = printf `{{%% notice info %%}}%s{{%% /notice %%}}` $box.content }}
+  {{ end }}
+
+  {{/* 2. Выполняем (рендерим) эту строку, чтобы шорткод notice сработал */}}
+  {{ .Page.RenderString $shortcodeString }}
+{{ end }}

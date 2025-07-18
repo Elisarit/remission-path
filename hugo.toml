@@ -2,3 +2,9 @@ baseURL = 'https://elisarit.github.io/remission-path/'
 languageCode = 'ru-ru'
 title = 'Путь ремиссии'
 theme = 'relearn'
+
+
+[[menu.main]]
+  name = "Обратная связь"
+  url = "/contact/feedback/"
+  weight = 30
