@@ -2,20 +2,25 @@
 title = 'Перевод терминологии'
 +++
 
+Если Вы считаете обоснованным или более удачным другой вариант перевода, пожалуйста [сообщите об этом мне]({{% relref "feedback.md" %}}).
+
 ## Наименования организаций
 
 | Наименование на английском | Выбранный перевод (с ссылкой на страницу разбора) | Контекст на английском | Контекст на русском |
 | -------------------- | ---------------------------------------------------- | ------------------------------------- | ------------------- |
 | Center on Alcoholism, Substance Abuse, and Addictions (CASAA) | | | |
 | National Institute on Alcohol Abuse and Alcoholism (NIAAA) | | | |
-| National Institute on Drug Abuse (NIDA) | [Национальный институт по борьбе со злоупотреблением наркотиками](content/terminology/nida.md) | U.S. federal research institute that advances scientific knowledge to improve the prevention and treatment of substance use disorders. | Федеральный исследовательский институт США, который развивает научные знания для совершенствования профилактики и лечения расстройств, связанных с употреблением психоактивных веществ. |
+| National Institute on Drug Abuse (NIDA) | [Национальный институт по борьбе со злоупотреблением наркотиками]({{% relref "nida.md" %}}) | U.S. federal research institute that advances scientific knowledge to improve the prevention and treatment of substance use disorders. | Федеральный исследовательский институт США, который развивает научные знания для совершенствования профилактики и лечения расстройств, связанных с употреблением психоактивных веществ. |
 | Substance Abuse and Mental Health Services Administration (SAMHSA) | | | |
 
 ## Наименования книг или материалов
 
 | Наименование на английском | Выбранный перевод (с ссылкой на страницу разбора) | Контекст на английском | Контекст на русском |
 | -------------------- | ---------------------------------------------------- | ------------------------------------- | ------------------- |
+| Counselor's Family Education | | | |
+| Counselor's Treatment Manual | | | |
 | Get Your Loved One Sober | | | |
+| Matrix Intensive Outpatient Treatment for People With Stimulant Use Disorders | | | |
 
 ## Термины
 
@@ -35,8 +40,8 @@ title = 'Перевод терминологии'
 | Cognitive-behavioral therapy (CBT) | | | |
 | Community Reinforcement and Family Training (CRAFT) | | | |
 | Concerned Significant Others (CSOs) | | | |
-| Contingencies | | | |
-| Contingency Management (CM) | [Управление подкреплением](content/terminology/contingency-management.md) | Treatment for SUD that provides tangible rewards to reinforce positive behaviors, such as verified abstinence from substance use. | Вид лечения зависимости, при котором предоставляют материальные вознаграждения для подкрепления желаемого поведения, например, подтверждённого воздержания от употребления психоактивных веществ. |
+| Contingencies | [Поощрения]({{% relref "contingency-management.md" %}}) | Rewards, such as vouchers or prizes, that are given for meeting specific goals. | Вознаграждения, такие как ваучеры или призы, которые выдаются за достижение определенных целей. |
+| Contingency Management (CM) | [Управление поощрением]({{% relref "contingency-management.md" %}}) | Treatment for SUD that provides tangible rewards to reinforce positive behaviors, such as verified abstinence from substance use. | Вид лечения зависимости, при котором предоставляют материальные вознаграждения для подкрепления желаемого поведения, например, подтверждённого воздержания от употребления психоактивных веществ. |
 | Contingent contract | | | |
 | Contingent vouchers | | | |
 | Controlled clinical trials | | | |
@@ -62,7 +67,7 @@ title = 'Перевод терминологии'
 | Positive reinforcement | | | |
 | Quality of your life | | | |
 | Relapse prevention | | | |
-| Retail items contingent | | | |
+| Retail items contingent | [Условное вознаграждение потребительскими товарами](terminology/retain-items-contingent.md) | Practice of receiving consumer goods only after fulfilling a specific requirement, such as testing negative for drug use. | Розничные товары, предоставляемые в зависимости от выполнения определенных условий. |
 | Safety plan | | | |
 | Self-management | | | |
 | Shaping | | | |

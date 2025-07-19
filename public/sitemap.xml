@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/remission-path/about/index.html</loc>
-    <lastmod>2025-07-18T18:52:36+03:00</lastmod>
+    <loc>http://localhost:1313/remission-path/terminology/index.html</loc>
+    <lastmod>2025-07-20T00:39:41+03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/remission-path/terminology/index.html</loc>
-    <lastmod>2025-07-18T17:45:31+03:00</lastmod>
+    <loc>http://localhost:1313/remission-path/terminology/retain-items-contingent/index.html</loc>
+    <lastmod>2025-07-20T00:39:41+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/remission-path/about/index.html</loc>
+    <lastmod>2025-07-18T18:52:36+03:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/remission-path/terminology/nida/index.html</loc>

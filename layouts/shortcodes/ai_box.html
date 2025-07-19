@@ -1,15 +1,25 @@
-{{/* Получаем доступ к данным из файла */}}
-{{ $box := .Site.Data.shared_content.ai_box }}
+{{/* 1. Getting parameter passed to the shortcode. .Get 0 means "first parameter". */}}
+{{ $parameter := .Get 0 }}
 
-{{ if $box }}
-  {{/* 1. С помощью printf создаем строку, содержащую вызов шорткода notice */}}
-  {{ $shortcodeString := "" }}
-  {{ if $box.title }}
-    {{ $shortcodeString = printf `{{%% notice info %q %%}}%s{{%% /notice %%}}` $box.title $box.content }}
-  {{ else }}
-    {{ $shortcodeString = printf `{{%% notice info %%}}%s{{%% /notice %%}}` $box.content }}
-  {{ end }}
-
-  {{/* 2. Выполняем (рендерим) эту строку, чтобы шорткод notice сработал */}}
-  {{ .Page.RenderString $shortcodeString }}
+{{/* Check if the parameter was passed. If no - show error. */}}
+{{ if not $parameter }}
+  {{ errorf "Shortcode 'ai_box' doesn't have required parameter. Example: {{< ai_box \"AI Product\" >}}" }}
+  {{ return }}
 {{ end }}
+
+{{/* 2. Taking the template from the data directory. */}}
+{{ $box := .Site.Data.shared_content.ai_box }}
+{{ $templateContent := $box.content }}
+
+{{/* 3. Using printf to insert the param ($parameter) instead of %s. */}}
+{{ $finalContent := printf $templateContent $parameter }}
+
+{{/* 4. Final text rendering */}}
+{{ $shortcodeString := "" }}
+{{ if $box.title }}
+  {{ $shortcodeString = printf `{{%% notice info %q %%}}%s{{%% /notice %%}}` $box.title $finalContent }}
+{{ else }}
+  {{ $shortcodeString = printf `{{%% notice info %%}}%s{{%% /notice %%}}` $finalContent }}
+{{ end }}
+
+{{ .Page.RenderString $shortcodeString }}
