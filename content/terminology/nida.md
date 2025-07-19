@@ -1,6 +1,6 @@
 +++
 date = '2025-07-18T17:45:31+03:00'
-title = 'National Institute on Drug Abuse (NIDA) (Национальный институт по борьбе со злоупотреблением наркотиками)'
+title = 'Перевод: National Institute on Drug Abuse (NIDA) (Национальный институт по борьбе со злоупотреблением наркотиками)'
 +++
 
 {{< ai_box >}}

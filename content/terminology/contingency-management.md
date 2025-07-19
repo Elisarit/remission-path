@@ -1,6 +1,6 @@
 +++
 date = '2025-07-18T16:42:26+03:00'
-title = 'Contingency Management (Управление подкреплением)'
+title = 'Перевод: Contingency Management (Управление подкреплением)'
 +++
 
 {{< ai_box >}}
