@@ -29,8 +29,8 @@ weight = 350
 | -------------------- | ---------------------------------------------------- | ------------------------------------- | ------------------- |
 | Abstinence | [Воздержание]({{% relref "abstinence.md" %}}) | The practice of refraining from using drugs or other harmful substances. | Практика воздержания от употребления наркотиков или других вредных веществ. |
 | Addiction | [Аддикция]({{% relref "addiction.md" %}}) | Neuropsychological disorder characterized by a persistent and intense urge to use a drug or engage in a behavior that produces a natural mental reward, despite substantial harm and other negative consequences. | Нервно-психическое расстройство, характеризующееся постоянным и сильным желанием употребить вещество (наркотик, или алкоголь, или другое вещество) или заняться поведением, которое вызывает естественное психическое вознаграждение, несмотря на существенный вред и другие негативные последствия. |
-| Applied behavior analysis (ABA) | Прикладной анализ поведения | | |
-| Baseline | | | |
+| Applied behavior analysis (ABA) | [Прикладной анализ поведения (ПАП)]({{% relref "applied-behavior-analysis.md" %}}) | Type of therapy that applies the principles of learning and motivation to bring about positive and meaningful change in behavior. | Вид терапии, в котором применяются принципы обучения и мотивации для достижения положительных и значимых изменений в поведении. |
+| Baseline | [Исходный уровень]({{% relref "baseline.md" %}}) | Initial measurement of a condition taken at the beginning of a study or treatment, which is used as a reference point for comparison with future measurements. | Первоначальное измерение состояния, сделанное в начале исследования или лечения, которое используется в качестве отправной точки для сравнения с будущими измерениями. |
 | Behavior Basics | | | |
 | Behavioral mapping (Observation) | | | |
 | Board certified behavior analysts | | | |
@@ -42,7 +42,6 @@ weight = 350
 | Concerned Significant Others (CSOs) | | | |
 | Contingencies | [Поощрения]({{% relref "contingency-management.md" %}}) | Rewards, such as vouchers or prizes, that are given for meeting specific goals. | Вознаграждения, такие как ваучеры или призы, которые выдаются за достижение определенных целей. |
 | Contingency Management (CM) | [Управление поощрением]({{% relref "contingency-management.md" %}}) | Treatment for SUD that provides tangible rewards to reinforce positive behaviors, such as verified abstinence from substance use. | Вид лечения зависимости, при котором предоставляют материальные вознаграждения для подкрепления желаемого поведения, например, подтверждённого воздержания от употребления психоактивных веществ. |
-| Contingent contract | | | |
 | Contingent vouchers | | | |
 | Controlled clinical trials | | | |
 | Culprit | | | |
@@ -67,7 +66,7 @@ weight = 350
 | Positive reinforcement | | | |
 | Quality of your life | | | |
 | Relapse prevention | | | |
-| Retail items contingent | [Условное вознаграждение потребительскими товарами](terminology/retain-items-contingent.md) | Practice of receiving consumer goods only after fulfilling a specific requirement, such as testing negative for drug use. | Розничные товары, предоставляемые в зависимости от выполнения определенных условий. |
+| Retail items contingent | [Условное поощрение потребительскими товарами](terminology/retain-items-contingent.md) | Practice of receiving consumer goods only after fulfilling a specific requirement, such as testing negative for drug use. | Розничные товары, предоставляемые в зависимости от выполнения определенных условий. |
 | Safety plan | | | |
 | Self-management | | | |
 | Shaping | | | |
