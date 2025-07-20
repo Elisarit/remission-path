@@ -3,6 +3,8 @@ languageCode = 'ru-ru'
 title = 'Путь ремиссии'
 theme = 'relearn'
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.main]]
   name = "Обратная связь"
