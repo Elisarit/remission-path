@@ -28,8 +28,7 @@ weight = 350
 | Термин на английском | Выбранный перевод (и ссылка на страницу разбора) | Контекст термина кратко на английском | Контекст на русском |
 | -------------------- | ---------------------------------------------------- | ------------------------------------- | ------------------- |
 | Abstinence | [Воздержание]({{% relref "abstinence.md" %}}) | The practice of refraining from using drugs or other harmful substances. | Практика воздержания от употребления наркотиков или других вредных веществ. |
-| Activities | | | |
-| Addiction | | | |
+| Addiction | [Аддикция]({{% relref "addiction.md" %}}) | Neuropsychological disorder characterized by a persistent and intense urge to use a drug or engage in a behavior that produces a natural mental reward, despite substantial harm and other negative consequences. | Нервно-психическое расстройство, характеризующееся постоянным и сильным желанием употребить вещество (наркотик, или алкоголь, или другое вещество) или заняться поведением, которое вызывает естественное психическое вознаграждение, несмотря на существенный вред и другие негативные последствия. |
 | Applied behavior analysis (ABA) | Прикладной анализ поведения | | |
 | Baseline | | | |
 | Behavior Basics | | | |
