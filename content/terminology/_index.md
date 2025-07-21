@@ -20,7 +20,7 @@ weight = 350
 | -------------------- | ---------------------------------------------------- | ------------------------------------- | ------------------- |
 | Counselor's Family Education | | | |
 | Counselor's Treatment Manual | | | |
-| Get Your Loved One Sober | | | |
+| Get Your Loved One Sober | [Как помочь близкому обрести трезвость]({{% relref "get-your-loved-one-sober.md" %}}) | | |
 | Matrix Intensive Outpatient Treatment for People With Stimulant Use Disorders | | | |
 
 ## Термины
@@ -38,7 +38,7 @@ weight = 350
 | Choice and preference assessments | | | |
 | Codependency | | | |
 | Cognitive-behavioral therapy (CBT) | | | |
-| Community Reinforcement and Family Training (CRAFT) | | | |
+| Community Reinforcement Approach and Family Training (CRAFT) | [Подход подкрепления сообществом и семейное обучение]({{% relref "craft.md" %}}) | | |
 | Concerned Significant Others (CSOs) | | | |
 | Contingencies | [Поощрения]({{% relref "contingency-management.md" %}}) | Rewards, such as vouchers or prizes, that are given for meeting specific goals. | Вознаграждения, такие как ваучеры или призы, которые выдаются за достижение определенных целей. |
 | Contingency Management (CM) | [Управление поощрением]({{% relref "contingency-management.md" %}}) | Treatment for SUD that provides tangible rewards to reinforce positive behaviors, such as verified abstinence from substance use. | Вид лечения зависимости, при котором предоставляют материальные вознаграждения для подкрепления желаемого поведения, например, подтверждённого воздержания от употребления психоактивных веществ. |
